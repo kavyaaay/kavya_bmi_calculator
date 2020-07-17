@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-## New Project
+## Inputs
 
 You can add in the following: 
 1. Gender
@@ -16,3 +16,8 @@ And the app gives you your BMI Result!
 #### Images
 
 [Images of the UI present in Issues]
+
+
+#### Design
+
+Design inspired by Ruben Vaalt on dribbble. 
