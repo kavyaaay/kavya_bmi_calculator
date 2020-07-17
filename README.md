@@ -12,3 +12,7 @@ You can add in the following:
 
 And the app gives you your BMI Result!
 
+
+#### Images
+
+[Images of the UI present in Issues]
