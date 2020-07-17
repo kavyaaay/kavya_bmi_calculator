@@ -1,0 +1,6 @@
+package com.kavyakhurana.bmicalculator
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
